@@ -1,0 +1,7 @@
+C:\Users\Jupiter\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe.config
+C:\Users\Jupiter\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe
+C:\Users\Jupiter\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.pdb
+C:\Users\Jupiter\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.AssemblyReference.cache
+C:\Users\Jupiter\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.CoreCompileInputs.cache
+C:\Users\Jupiter\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.exe
+C:\Users\Jupiter\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.pdb
